@@ -2,8 +2,8 @@
 
 A CSE student who has been entranced by the software development process. Always eager to learn new technologies. Mainly done projects for the mobile platforms, recently trying to improve myself as well as in web development. My true purpose is to be a full-stack developer.
 
-- 🔭 I’m currently working on [Gezio](https://github.com/yarkincaner/react-native-gezio)
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on [yarkincaner.me](https://github.com/yarkincaner/reactjs-yarkincaner.git)
+- 🌱 I’m currently learning **ReactJS**
 - 📫 Reach me via **yarkincaner@gmail.com**
 
 ## Social Accounts:
