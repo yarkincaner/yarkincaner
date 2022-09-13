@@ -2,8 +2,9 @@
 
 A CSE student who has been entranced by the software development process. Always eager to learn new technologies. Mainly done projects for the mobile platforms, recently trying to improve myself as well as in web development. My true purpose is to be a full-stack developer.
 
-- 🔭 I’m currently working on [yarkincaner.me](https://github.com/yarkincaner/reactjs-yarkincaner.git)
-- 🌱 I’m currently learning **ReactJS**
+<!-- - 🔭 I’m currently working on [yarkincaner.me](https://github.com/yarkincaner/reactjs-yarkincaner.git) -->
+
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 📫 Reach me via **yarkincaner@gmail.com**
 
 ## Social Accounts:
@@ -20,6 +21,9 @@ A CSE student who has been entranced by the software development process. Always
 	</a> 
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 		<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
+	</a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/> 
 	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 		<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> 
